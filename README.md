@@ -1,6 +1,6 @@
 # Twitter Bot Coding Challenge 
 
-Using Node.JS create a Twitter bot that replies to @mentions with a tweet containing a related gif from the Giphy Search API. 
+Your mission should you choose to accept it is to create a Twitter bot using Node.JS that replies to @mentions with a tweet containing a related gif from the Giphy Search API. 
 
 For example, if you were to tweet "@twitterbot pizza" the bot would reply with something like this:
 
